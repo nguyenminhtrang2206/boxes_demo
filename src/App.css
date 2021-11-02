@@ -43,7 +43,14 @@ header {
   display: flex;
   justify-content: space-between;
 }
+
 nav ul li {
   display: inline-block;
   margin: 1rem;
+}
+input {
+  display: block;
+  margin: 1rem;
+  padding: 0.5rem;
+  border-radius: 5px;
 }
